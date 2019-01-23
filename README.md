@@ -12,6 +12,7 @@ All the details can be found in the report (written in italian)
 * [Google form](https://goo.gl/forms/9inSOlx2zqdHkKBq2) (in English)
 
 ## Group Members
+* [Mattia Molon](https://github.com/mattiamolon)
 * [Tommaso Bonomo](https://github.com/tommasobonomo)
 * [Giorgio Segalla](https://github.com/GiorgioSgl)
 * [Lorenzo Framba](https://github.com/LorenzoFramba)
