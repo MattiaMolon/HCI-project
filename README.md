@@ -1,6 +1,6 @@
 # HCI-project
 This project consists in a design of an application that has the aim to encorage people to use more sustainable means of transportations. <br />
-It tryes to do so via a gamification process. The user compete with others, trying to be as eco-friendly as possible. <br />
+It tryes to do so via a gamification process. The user competes with others, trying to be as eco-friendly as possible. <br />
 His eco-friendliness is reflected in some changing behaviours of the application itself.
 
 All the details can be found in the report (written in italian)
